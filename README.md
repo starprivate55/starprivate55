@@ -1,20 +1,19 @@
-<h3>やっほー</h3>
+# ここにはなにもないよ
 
-<!--
-**starprivate55/starprivate55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ただの一般的な高校生だよ。  
+特別なにかあるわけじゃないよ。
 
-Here are some ideas to get you started:
+一応情報に関係するものはビジネス文書実務検定の3級は持ってるよ。  
+誰でも取れるような資格だね。うん。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1>ここにはなにもないよ</h1>
+## 🧨skill
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,md&theme=dark)](https://skillicons.dev)
+
++破壊の力  
+スキルなんかねぇよ、うるせぇよ(？)
+
+## 📉Status
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starprivate55&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=starprivate55&theme=tokyonight&show_icons=ture" />
@@ -22,3 +21,11 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=starprivate55&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+なんもできないよ
+
+## 🏢Affiliation
+
+ - [TGR Group](https://github.com/TGR-Group) (Admin)
+ - [Hoshi Serv](https://github.com/Hoshi-Serv) (Admin)
+ - [Escape Group](https://github.com/esc-org) (Member)
