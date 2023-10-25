@@ -1,4 +1,4 @@
-### やっほー
+<h3>やっほー</h3>
 
 <!--
 **starprivate55/starprivate55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ここにはなにもないよ
+<h1>ここにはなにもないよ</h1>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starprivate55&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=starprivate55&theme=tokyonight&show_icons=ture" />
