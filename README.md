@@ -32,7 +32,7 @@
 
 なんか知らんけど3つのグループに入ってるよ
 
-## SNS
+## 📱SNS
 
  - [X](https://twitter.com/starprivate55/)
  - [Instagram](https://instagram.com/starprivate55/)
