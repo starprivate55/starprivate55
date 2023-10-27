@@ -29,3 +29,10 @@
  - [TGR Group](https://github.com/TGR-Group) (Admin)
  - [Hoshi Serv](https://github.com/Hoshi-Serv) (Admin)
  - [Escape Group](https://github.com/esc-org) (Member)
+
+## SNS
+
+ - [X](https://twitter.com/starprivate55/)
+ - [Instagram](https://instagram.com/starprivate55/)
+
+どっちも最近使ってないよ
