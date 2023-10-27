@@ -30,6 +30,8 @@
  - [Hoshi Serv](https://github.com/Hoshi-Serv) (Admin)
  - [Escape Group](https://github.com/esc-org) (Member)
 
+なんか知らんけど3つのグループに入ってるよ
+
 ## SNS
 
  - [X](https://twitter.com/starprivate55/)
