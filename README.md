@@ -6,7 +6,7 @@
 
 ## 🧨skill
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,md&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,md&theme=dark)](https://skillicons.dev)
 
 +破壊の力  
 スキルなんかねぇよ、うるせぇよ(？)
